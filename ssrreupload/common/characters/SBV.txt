@@ -1,0 +1,15 @@
+characters={
+	SBV_ernst_toller ={
+		name= "Ernst Toller"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SBV_ernst_toller
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

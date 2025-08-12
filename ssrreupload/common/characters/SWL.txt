@@ -1,0 +1,15 @@
+characters={
+	SWL_S_O_Davies ={
+		name= "S. O. Davies"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SWL_S_O_Davies
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

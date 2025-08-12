@@ -1,0 +1,15 @@
+characters={
+	SKO_kim_ill_sung ={
+		name= "Kim Il Sung"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SKO_kim_ill_sung
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

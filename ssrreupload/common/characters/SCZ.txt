@@ -1,0 +1,15 @@
+characters={
+	SCZ_Klement_Gottwald ={
+		name= "Klement Gottwald"
+		portraits={
+			civilian={
+				large=GFX_portrait_CZE_klement_gottwald
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

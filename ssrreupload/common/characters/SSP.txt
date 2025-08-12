@@ -1,0 +1,15 @@
+characters={
+	SSP_Jose_Diaz ={
+		name= "Joze Diaz"
+		portraits={
+			civilian={
+				large=GFX_portrait_SPR_jose_diaz
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

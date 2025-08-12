@@ -1,0 +1,15 @@
+characters={
+	SVT_Ho_Chi_Minh ={
+		name= "Ho Chi Minh"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SVT_ho_chi_minh
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

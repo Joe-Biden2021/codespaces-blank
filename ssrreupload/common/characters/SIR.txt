@@ -1,0 +1,15 @@
+characters={
+	SIR_Sean_Murray ={
+		name= "Sean Murray"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SIR_Sean_Murray
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

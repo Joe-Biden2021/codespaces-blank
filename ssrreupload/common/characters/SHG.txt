@@ -1,0 +1,15 @@
+characters={
+	SHG_Matyas_Rakosi ={
+		name= "Mátyás Rákosi"
+		portraits={
+			civilian={
+				large=GFX_Portrait_hungary_matyas_rakosi
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

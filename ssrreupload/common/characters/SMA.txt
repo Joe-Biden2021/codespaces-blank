@@ -1,0 +1,15 @@
+characters={
+	SMA_Red_Army ={
+		name= "Soviet Occupational Forces"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SOV_Red_Army
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

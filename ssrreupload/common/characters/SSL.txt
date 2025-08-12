@@ -1,0 +1,15 @@
+characters={
+	SSL_wickramasinghe ={
+		name= "S.A. Wickramasinghe"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SSL_wickramasinghe
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

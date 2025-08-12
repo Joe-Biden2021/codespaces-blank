@@ -1,0 +1,15 @@
+characters={
+	SYG_Milovan_Dilas ={
+		name= "Milovan Đilas"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SYG_Milovan_Dilas
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

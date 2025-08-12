@@ -1,0 +1,15 @@
+characters={
+	SMO_khorloogiin_choibalsan ={
+		name= "Khorloogiin Choibalsan"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SMO_khorloogiin_choibalsan
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

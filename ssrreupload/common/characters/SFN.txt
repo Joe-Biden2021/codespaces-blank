@@ -1,0 +1,15 @@
+characters={
+	SFN_Otto_Wille_Kuusinen ={
+		name= "Otto Wille Kuusinen"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SFN_Otto_Wille_Kuusinen
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

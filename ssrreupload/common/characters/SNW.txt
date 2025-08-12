@@ -1,0 +1,15 @@
+characters={
+	SNW_Adam_Egede-Nissen ={
+		name= "Adam Egede-Nissen"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SNW_Adam_Egede-Nissen
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

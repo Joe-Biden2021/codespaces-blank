@@ -1,0 +1,15 @@
+characters={
+	SMD_p_ramamurthi ={
+		name= "P. Ramamurthi"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SMD_p_ramamurthi
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	STH_phayom_chulanont ={
+		name= "Phayom Chulanont"
+		portraits={
+			civilian={
+				large=GFX_Portrait_STH_phayom_chulanont
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

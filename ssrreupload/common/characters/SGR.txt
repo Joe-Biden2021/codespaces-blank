@@ -1,0 +1,15 @@
+characters={
+	SGR_Nikos_Zachariadis ={
+		name= "Nikos Zachariadis"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SGR_Nikos_Zachariadis
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

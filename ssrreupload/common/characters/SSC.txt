@@ -1,0 +1,15 @@
+characters={
+	SSC_James_Maxton ={
+		name= "James Maxton"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SSC_James_Maxton
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

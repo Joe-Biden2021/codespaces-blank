@@ -1,0 +1,15 @@
+characters={
+	SPL_Boleslaw_Bierut ={
+		name= "Bolesław Bierut"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SPL_Bolesław_Bierut
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

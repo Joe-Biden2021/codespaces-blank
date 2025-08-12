@@ -1,0 +1,15 @@
+characters={
+	SBL_Georgi_Dimitrov ={
+		name= "Georgi Dimitrov"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SBL_Georgi_Dimitrov
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	SFR_Maurice_Thorez ={
+		name= "Maurice Thorez"
+		portraits={
+			civilian={
+				large=GFX_portrait_fra_maurice_thorez
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

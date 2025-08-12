@@ -1,0 +1,15 @@
+characters={
+	SGU_dhinkar_mehta ={
+		name= "Dhinkar Mehta"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SGU_dhinkar_mehta
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

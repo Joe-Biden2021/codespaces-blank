@@ -1,0 +1,15 @@
+characters={
+	SLA_kaysone_phomvihane ={
+		name= "Kaysone Phomvihane"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SLA_kaysone_phomvihane
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	SPT_Bento_Goncalves ={
+		name= "Bento Goncalves"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SPT_Bento_Goncalves
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

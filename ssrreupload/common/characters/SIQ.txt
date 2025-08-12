@@ -1,0 +1,15 @@
+characters={
+	SIQ_yusuf_salman_yusuf ={
+		name= "Yusuf Salman Yusuf"
+		portraits={
+			civilian={
+				large=GFX_portrait_Yusuf_Salman_Yusuf
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

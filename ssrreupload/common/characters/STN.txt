@@ -1,0 +1,15 @@
+characters={
+	STN_srinivasa_rao ={
+		name= "Srinivasa Rao"
+		portraits={
+			civilian={
+				large=GFX_Portrait_STN_srinivasa_rao
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

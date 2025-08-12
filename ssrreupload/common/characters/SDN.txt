@@ -1,0 +1,15 @@
+characters={
+	SDN_Aksel_Larsen ={
+		name= "Aksel Larsen"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SDN_Aksel_Larsen
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

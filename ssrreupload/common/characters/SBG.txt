@@ -1,0 +1,15 @@
+characters={
+	SBG_Julien_Lahaut ={
+		name= "Julien Lahaut"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SBG_Julien_Lahaut
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

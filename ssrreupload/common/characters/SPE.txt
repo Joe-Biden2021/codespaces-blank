@@ -1,0 +1,15 @@
+characters={
+	SPE_iraj_eskandari ={
+		name= "Iraj Eskandari"
+		portraits={
+			civilian={
+				large=GFX_Portrait_PER_iraj_eskandari
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

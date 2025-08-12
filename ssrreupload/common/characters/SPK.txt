@@ -1,0 +1,15 @@
+characters={
+	SPK_sajjid_zaher ={
+		name= "Sajjid Zaher"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SPK_sajjid_zaher
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

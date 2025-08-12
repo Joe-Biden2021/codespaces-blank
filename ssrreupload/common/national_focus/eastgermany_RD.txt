@@ -1,0 +1,66 @@
+focus_tree = {
+	id = REDDAWN_DDR_1
+
+	country = {
+		base = 0
+		modifier = {
+			add = 10
+			tag = SGD
+		}
+	}
+	
+	focus = {
+		id = RD_DDR_focus_1
+		icon = DDRfocus_1
+		x = 1
+		y = 0
+		cost = 5
+		completion_reward = {
+			add_political_power = 150
+		}
+	}
+	focus = {
+		id = RD_DDR_focus_2
+		relative_position_id = RD_DDR_focus_1
+		x = -1
+		y = 1
+		prerequisite = {
+			focus = RD_DDR_focus_1
+		}
+		cost = 2
+		ai_will_do = {
+			factor = 0
+		}
+		completion_reward = {
+			add_stability = -15
+		}
+	}
+	focus = {
+		id = RD_DDR_focus_3
+		relative_position_id = RD_DDR_focus_1
+		x = 1
+		y = 1
+		prerequisite = {
+			focus = RD_DDR_focus_1
+		}
+		cost = 2
+		completion_reward = {
+			add_political_power = 25
+		}
+	}
+	focus = {
+		id = RD_DDR_focus_4
+		relative_position_id = RD_DDR_focus_1
+		x = 0
+		y = 2
+		prerequisite = {
+			focus = RD_DDR_focus_2
+			focus = RD_DDR_focus_3
+		}
+		cost = 5
+		completion_reward = {
+			add_political_power = 35
+			set_focus_tree = REDDAWN_DDR_2
+		}
+	}
+}

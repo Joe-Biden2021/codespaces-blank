@@ -1,0 +1,15 @@
+characters={
+	SET_abdulkerim_abbas ={
+		name= "Abdulkerim Abbas"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SET_abdulkerim_abbas
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

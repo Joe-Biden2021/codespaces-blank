@@ -1,0 +1,15 @@
+characters={
+	SMY_KS_vasan ={
+		name= "K. S. Vasan"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SMY_KS_vasan
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

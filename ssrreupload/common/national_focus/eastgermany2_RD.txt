@@ -1,0 +1,7 @@
+focus_tree = {
+    id = REDDAWN_DDR_2
+
+    country = {
+        base = 0
+    }
+}

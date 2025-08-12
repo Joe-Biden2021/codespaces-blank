@@ -1,0 +1,15 @@
+characters={
+	SRG_rb_more ={
+		name= "R. B. More"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SRG_rb_more
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	SCH_mao ={
+		name= "Mao Zedong"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SCH_mao_zedong
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

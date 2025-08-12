@@ -1,0 +1,15 @@
+characters={
+	SHY_puchalapalli_sundarayya ={
+		name= "Puchalapalli Sundarayya"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SHY_puchalapalli_sundarayya
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

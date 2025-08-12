@@ -1,0 +1,15 @@
+characters={
+	SAS_Alfred_Klahr ={
+		name= "Alfred Klahr"
+		portraits={
+			civilian={
+				large=GFX_portrait_AUS_alfred_klahr
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters={
+	SKA_sohn_ngoc_minh ={
+		name= "Sohn Ngoc Minh"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SKA_sohn_ngoc_minh
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

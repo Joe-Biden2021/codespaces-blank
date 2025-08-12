@@ -1,0 +1,15 @@
+characters={
+	SFG_hafizullah_amin ={
+		name= "Hafizullah Amin"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SFG_hafizullah_amin
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

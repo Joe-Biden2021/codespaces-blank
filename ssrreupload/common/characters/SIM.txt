@@ -1,0 +1,15 @@
+characters={
+	SIM_peoples_congress ={
+		name= "Peoples Congress"
+		portraits={
+			civilian={
+				large=GFX_portrait_SIM_peoples_congress
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

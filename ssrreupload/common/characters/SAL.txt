@@ -1,0 +1,15 @@
+characters={
+	SAL_Enver_Hoxha ={
+		name= "Enver Hoxha"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SAL_Enver_Hoxha
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

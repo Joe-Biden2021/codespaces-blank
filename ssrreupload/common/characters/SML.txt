@@ -1,0 +1,15 @@
+characters={
+	SML_chin_peng ={
+		name= "Chin Peng"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SML_chin_peng
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

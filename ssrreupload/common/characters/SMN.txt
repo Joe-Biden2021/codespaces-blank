@@ -1,0 +1,15 @@
+characters={
+	SMN_ma_zhanshan ={
+		name= "Ma Zhanshan"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SMN_ma_zhanshan
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

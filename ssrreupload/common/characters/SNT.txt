@@ -1,0 +1,15 @@
+characters={
+	SNT_Lou_De_Visser ={
+		name= "Lou de Visser"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SNT_Lou_de_Visser
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

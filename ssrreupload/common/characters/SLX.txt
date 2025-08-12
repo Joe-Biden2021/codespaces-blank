@@ -1,0 +1,15 @@
+characters={
+	SLX_Charles_Marx ={
+		name= "Charles Marx"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SLX_Charles_Marx
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

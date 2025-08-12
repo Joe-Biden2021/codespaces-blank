@@ -1,0 +1,15 @@
+characters={
+	SBO_SA_Dange ={
+		name= "Shripad Amrit Dange"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SBO_SA_Dange
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

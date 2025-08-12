@@ -1,0 +1,15 @@
+characters={
+	STI_phuntsok_wangyal ={
+		name= "Phuntsok Wangyal"
+		portraits={
+			civilian={
+				large=GFX_Portrait_STI_phuntsok_wangyal
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

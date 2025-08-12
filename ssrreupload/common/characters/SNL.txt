@@ -1,0 +1,15 @@
+characters={
+	SNL_pushpa_shrestha ={
+		name= "Pushpa Shrestha"
+		portraits={
+			civilian={
+				large=GFX_Portrait_SNL_pushpa_shrestha
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
