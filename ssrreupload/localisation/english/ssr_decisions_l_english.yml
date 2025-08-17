@@ -3,6 +3,7 @@
 
  SOV_ssrplus_categories_europe:0 "Form European Soviet-Aligned States"
  SOV_ssrplus_categories_asia:0 "Form Asian Soviet-Aligned States"
+ SOV_ssrplus_categories_america:0 "Form American Soviet-Aligned States"
  
  
  SOV_ssrplus_categories_integration:0 "Territorial Integration Process"
@@ -73,6 +74,7 @@
  SOV_ssrplus_raj:0 "Establish the §YIndian Peoples Republic§!"
  SOV_ssrplus_DPRK:0 "Establish the §YDemocratic Peoples Republic of Korea§!"
  SOV_ssrplus_arabia:0 "Establish the §YCentral-Arabian Administratsiya§!"
+ SOV_ssrplus_north_america:0 "Establish the §RUnion of North American Republics§!"
 
  SOV_ssrplus_territorial_westprussia:0 "The Fate of §YWest Prussia§!"
  SOV_ssrplus_territorial_eastprussia:0 "The Fate of §YEast Prussia§!"

@@ -923,9 +923,9 @@ country_event = {
 }
 
 country_event = {
-    id = soviet_stalin_portrait.1
-    title = soviet_stalin_portrait.1.t
-    desc = soviet_stalin_portrait.1.desc
+    id = ssrpluscountry.8
+    title = ssrpluscountry.8.t
+    desc = ssrpluscountry.8.desc
 
     trigger = {
         tag = SOV
@@ -939,6 +939,11 @@ country_event = {
         }
     }
 
+	option = {
+
+	}
+
     is_triggered_only = yes
 	fire_only_once = yes
 }
+

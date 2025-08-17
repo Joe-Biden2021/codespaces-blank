@@ -1,0 +1,15 @@
+characters={
+	SNA_Earl_Browder ={
+		name= "Earl Browder"
+		portraits={
+			civilian={
+				large=GFX_portrait_SNA_earl_browder
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

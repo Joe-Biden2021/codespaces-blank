@@ -264,4 +264,9 @@ spriteTypes = {
 		name = "GFX_portrait_SIM_peoples_congress"
 		texturefile = "gfx/leaders/SOV/portrait_peoples_congress.dds"
 	}
+
+	spriteType = {
+		name = "GFX_portrait_SNA_earl_browder"
+		texturefile = "gfx/leaders/SOV/GFX_portrait_SNA_earl_browder.dds"
+	}
 }

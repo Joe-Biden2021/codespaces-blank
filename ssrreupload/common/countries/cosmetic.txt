@@ -1634,38 +1634,3 @@ SMP_northiran = {
 	color_ui = rgb { 119 40 40 }
 }
 
-SSP_iberian_union = {
-    name = "Iberian Union"
-    name_def = "the Iberian Union"
-    name_adj = "Iberian"
-
-    color = { 168 112 152 } 
-
-    graphical_culture = western_european_gfx
-    graphical_culture_2d = western_european_2d
-
-    
-    communist = {
-        name = "Iberian Union"
-        name_def = "the Iberian Union"
-        name_adj = "Iberian"
-    }
-
-    democratic = {
-        name = "Iberian Union"
-        name_def = "the Iberian Union"
-        name_adj = "Iberian"
-    }
-
-    fascist = {
-        name = "Iberian Union"
-        name_def = "the Iberian Empire"
-        name_adj = "Iberian"
-    }
-
-    neutrality = {
-        name = "Iberian Union"
-        name_def = "the Iberian Union"
-        name_adj = "Iberian"
-    }
-}

@@ -1315,13 +1315,13 @@ SPK = {
 }
 
 SPL = {
-	color = rgb { 202 99 113 }
-	color_ui = rgb { 202 99 113 }
+	color = rgb { 227 99 113 }
+	color_ui = rgb { 227 99 113 }
 }
 
 SPT = {
-	color = rgb { 0 71 0 }
-	color_ui = rgb { 0 71 0 }
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
 }
 
 SRG = {
@@ -1437,4 +1437,9 @@ SKR = {
 SIM = {
 	color = rgb { 163 69 69 }
 	color_ui = rgb { 163 69 69 }
+}
+
+SNA = {
+	color = rgb ( 172 55 55 )
+	color_ui = { 172 55 55 }
 }
